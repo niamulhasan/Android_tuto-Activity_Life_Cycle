@@ -6,5 +6,5 @@
 > Android_tuto-Activity_Life_Cycle/src/main/java/me/niamulhasan/tutorial/lifecycle/
 
 ## The XML resource file Location
-[Android_tuto-Activity_Life_Cycle/src/main/res/layout/](Android_tuto-Activity_Life_Cycle/src/main/res/layout/)
+[Android_tuto-Activity_Life_Cycle/src/main/res/layout/](/src/main/res/layout/)
 > Android_tuto-Activity_Life_Cycle/src/main/res/layout/
